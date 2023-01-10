@@ -4,8 +4,8 @@ import (
 	"context"
 	"math/big"
 
-	"github.com/devanshubhadouria/chainbridge-core/chains/evm/calls"
-	"github.com/devanshubhadouria/chainbridge-core/chains/evm/calls/transactor"
+	"github.com/VaivalGithub/chainbridge-core/chains/evm/calls"
+	"github.com/VaivalGithub/chainbridge-core/chains/evm/calls/transactor"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/rs/zerolog/log"
 )

@@ -1,4 +1,4 @@
-module github.com/devanshubhadouria/chainbridge-core
+module github.com/VaivalGithub/chainbridge-core
 
 go 1.17
 

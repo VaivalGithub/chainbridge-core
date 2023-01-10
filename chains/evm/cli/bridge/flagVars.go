@@ -3,8 +3,8 @@ package bridge
 import (
 	"math/big"
 
-	"github.com/devanshubhadouria/chainbridge-core/crypto/secp256k1"
-	"github.com/devanshubhadouria/chainbridge-core/types"
+	"github.com/VaivalGithub/chainbridge-core/crypto/secp256k1"
+	"github.com/VaivalGithub/chainbridge-core/types"
 	"github.com/ethereum/go-ethereum/common"
 )
 

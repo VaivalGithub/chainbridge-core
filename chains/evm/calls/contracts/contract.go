@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/devanshubhadouria/chainbridge-core/chains/evm/calls"
-	"github.com/devanshubhadouria/chainbridge-core/chains/evm/calls/transactor"
+	"github.com/VaivalGithub/chainbridge-core/chains/evm/calls"
+	"github.com/VaivalGithub/chainbridge-core/chains/evm/calls/transactor"
 	"github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/accounts/abi"
 	"github.com/ethereum/go-ethereum/common"

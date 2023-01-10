@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"math/big"
 
-	"github.com/devanshubhadouria/chainbridge-core/chains/evm/calls/evmclient"
+	"github.com/VaivalGithub/chainbridge-core/chains/evm/calls/evmclient"
 	"github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"

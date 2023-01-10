@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/devanshubhadouria/chainbridge-core/chains/evm/calls/events"
-	"github.com/devanshubhadouria/chainbridge-core/relayer/message"
-	"github.com/devanshubhadouria/chainbridge-core/types"
+	"github.com/VaivalGithub/chainbridge-core/chains/evm/calls/events"
+	"github.com/VaivalGithub/chainbridge-core/relayer/message"
+	"github.com/VaivalGithub/chainbridge-core/types"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/rs/zerolog/log"

@@ -3,9 +3,9 @@ package bridge
 import (
 	"fmt"
 
-	"github.com/devanshubhadouria/chainbridge-core/chains/evm/cli/flags"
-	"github.com/devanshubhadouria/chainbridge-core/chains/evm/cli/logger"
-	"github.com/devanshubhadouria/chainbridge-core/util"
+	"github.com/VaivalGithub/chainbridge-core/chains/evm/cli/flags"
+	"github.com/VaivalGithub/chainbridge-core/chains/evm/cli/logger"
+	"github.com/VaivalGithub/chainbridge-core/util"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"

@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/devanshubhadouria/chainbridge-core/config/chain"
-	"github.com/devanshubhadouria/chainbridge-core/relayer/message"
-	"github.com/devanshubhadouria/chainbridge-core/store"
+	"github.com/VaivalGithub/chainbridge-core/config/chain"
+	"github.com/VaivalGithub/chainbridge-core/relayer/message"
+	"github.com/VaivalGithub/chainbridge-core/store"
 	"github.com/rs/zerolog/log"
 )
 

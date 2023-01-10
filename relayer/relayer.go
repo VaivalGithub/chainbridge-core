@@ -7,7 +7,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/devanshubhadouria/chainbridge-core/relayer/message"
+	"github.com/VaivalGithub/chainbridge-core/relayer/message"
 	"github.com/rs/zerolog/log"
 )
 
